@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "name": "Planche",
+        "date": "",
+        "duration": 3600,
+        "restBetweenSets": 90,
+        "exercices": [
+            {"id": 1, "name": "Elévation couché sur banc bras tendus", "sets": 4, "reps": 15, "load": "4kg", "rest": 60, "illustration": "elevation-frontale-incline-sur-banc.JPG", "comments": "Couché sur le banc, brans tendus, haltères en bas en position de départ. Remonter les haltères en gardant les brans tendus."},
+            {"id": 2, "name": "Inverted leg raises", "sets": 4, "reps": 15, "load": null, "rest": 60, "illustration": "", "comments": "Couché sur le ventre sur une table, remonter les jambes à la force des abdos."},
+            {"id": 3, "name": "Planch lean", "sets": 4, "reps": 10, "load": null, "rest": 90, "illustration": "planche-lean.jpg", "comments": null},
+            {"id": 4, "name": "L-Sit to tuck planch", "sets": 4, "reps": 5, "load": null, "rest": 90, "illustration": "tuck-planch.JPG", "comments": null},
+            {"id": 5, "name": "Handstand", "sets": 5, "reps": 10, "load": null, "rest": 90, "illustration": "handstand.jpg", "comments": null}
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Muscle up - Thenx",
+        "date": "",
+        "duration": 3600,
+        "restBetweenSets": 90,
+        "exercices": [
+            {"id": 1, "name": "Australian pull ups", "sets": 4, "reps": 15, "load": null, "rest": 60, "illustration": "australian-pullup.JPG", "comments": "Peut-être fait aux anneaux."},
+            {"id": 2, "name": "Weighted pull ups", "sets": 4, "reps": 3, "load": null, "rest": 120, "illustration": "weighted-pullup.JPG",  "comments": null},
+            {"id": 3, "name": "Explosive pull ups", "sets": 4, "reps": 7, "load": null, "rest": 120, "illustration": "explosive-pullup.JPG", "comments": null},
+            {"id": 4, "name": "Negative muscle up", "sets": 4, "reps": 8, "load": null, "rest": 120, "illustration": "negative-mu.JPG", "comments": "Retenir la descente au maximum."},
+            {"id": 5, "name": "Weighted straight bar dips", "sets": 4, "reps": 6, "load": null, "rest": 90, "illustration": "weighted-straight-bar-dips.JPG", "comments": null},
+            {"id": 6, "name": "Explosive straight bar dips", "sets": 4, "reps": 8, "load": null, "rest": 90, "illustration": "straight-bar-dips.JPG", "comments": null},
+            {"id": 7, "name": "Jumping muscle up", "sets": 4, "reps": 10, "load": null, "rest": 90, "illustration": "jbm.JPG", "comments": null},
+            {"id": 8, "name": "Toes to bar", "sets": 4, "reps": 8, "load": null, "rest": 90, "illustration": "toes-to-bar.JPG", "comments": null},
+            {"id": 9, "name": "Hanging L-Sit hold", "sets": 3, "reps": "max secs", "load": null, "rest": 120, "illustration": "hanging-lsit-hold.JPG", "comments": null},
+            {"id": 10, "name": "Scapula shrugs", "sets": 3, "reps": 10, "load": null, "rest": 90, "illustration": "scapula-shrugs.JPG", "comments": null},
+            {"id": 11, "name": "Hanging on the bar", "sets": 3, "reps": "40 secs", "load": null, "rest": 120, "illustration": "hanging-on-the-bar.JPG", "comments": "Variation à une main."}							
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Muscle up - Cycle 1",
+        "date": "",
+        "duration": 3600,
+        "restBetweenSets": 90,
+        "exercices": [
+            {"id": 1, "name": "Bar swings", "sets": 5, "reps": 12, "load": null, "rest": 60, "illustration": "bar-swings.JPG", "comments": "Sauter sur la barre, se balancer."},
+            {"id": 2, "name": "Jumping muscle up", "sets": 4, "reps": 10, "load": null, "rest": 90, "illustration": "jumping-mu.JPG", "comments": "Sauter avec un seul pied, s'aider de moins en moins."},
+            {"id": 3, "name": "Negative muscle up", "sets": 10, "reps": 1, "load": null, "rest": 90, "illustration": "negative-mu-2.JPG", "comments": null},
+            {"id": 4, "name": "Pull-up", "sets": 4, "reps": 10, "load": null, "rest": 90, "illustration": "pullup.JPG", "comments": null},
+            {"id": 5, "name": "Bar triceps extension", "sets": 4, "reps": 10, "load": null, "rest": 90, "illustration": "bar-triceps-ext.JPG", "comments": "Renforcer les triceps."},
+            {"id": 6, "name": "Hanging leg raise", "sets": 4, "reps": 8, "load": null, "rest": 90, "illustration": "hanging-leg-raise.JPG", "comments": "Accroché sur la barre en position de L-Sit"}							
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Muscle up - Cycle 2",
+        "date": "",
+        "duration": 3600,
+        "restBetweenSets": 90,
+        "exercices": [
+            {"id": 1, "name": "Tucked pulls", "sets": 5, "reps": 8, "load": null, "rest": 60, "illustration": "tucked-leg-raise.JPG", "comments": "Remonté de genoux accroché à la barre."},
+            {"id": 2, "name": "Assisted Muscle up", "sets": 4, "reps": 5, "load": null, "rest": 90, "illustration": "assisted-mu.JPG", "comments": "Muscle up assisté d'une bande élastique."},
+            {"id": 3, "name": "Weighted Pull-up", "sets": 4, "reps": 6, "load": null, "rest": 90, "illustration": "weighted-pullup.JPG", "comments": "Traction lestée."},
+            {"id": 4, "name": "Weighted dip", "sets": 4, "reps": 6, "load": null, "rest": 90, "illustration": "weighted-dips.JPG", "comments": null},
+            {"id": 5, "name": "Straight bar dip", "sets": 4, "reps": 12, "load": null, "rest": 90, "illustration": "straight-bar-dips.JPG", "comments": "Aller chercher profond en bas du mouvement."},
+            {"id": 6, "name": "Hollow body hold", "sets": 3, "reps": "30 secs", "load": null, "rest": 90, "illustration": "hbh.JPG", "comments": "Couché sur le dos, monter les jambes et les bras tout en restant gainé."}							
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Muscle up - Cycle 3",
+        "date": "",
+        "duration": 3600,
+        "restBetweenSets": 90,
+        "exercices": [
+            {"id": 1, "name": "Muscle up practice", "sets": 6, "reps": 1, "load": null, "rest": 120, "illustration": "mu-practice.JPG", "comments": "Tentative de muscle up."},
+            {"id": 2, "name": "Assisted Muscle up", "sets": 4, "reps": 6, "load": null, "rest": 120, "illustration": "assisted-mu.JPG", "comments": "Muscle up assisté d'une bande élastique."},
+            {"id": 3, "name": "Explosive Pull-up", "sets": 4, "reps": 6, "load": null, "rest": 90, "illustration": "explosive-pullup.JPG", "comments": "Traction lestée."},
+            {"id": 4, "name": "Low bar triceps extension", "sets": 4, "reps": 8, "load": null, "rest": 90, "illustration": "low-bar-triceps-extension.JPG", "comments": null},
+            {"id": 5, "name": "Deep dip", "sets": 4, "reps": 12, "load": null, "rest": 90, "illustration": "deep-dip.JPG", "comments": "Sur barre parallèle, chercher profond en bas du mouvment."},
+            {"id": 6, "name": "Toes to bar", "sets": 4, "reps": 8, "load": null, "rest": 90, "illustration": "toes-to-bar.JPG", "comments": "Accroché à la barre, toucher la barre avec les jambes tendues."}
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Core training",
+        "date": "",
+        "duration": 1800,
+        "restBetweenSets": 90,
+        "exercices": [
+            {"id": 1, "name": "Hollow body hold", "sets": 3, "reps": "max secs", "load": null, "rest": 90, "illustration": "hbh-2.JPG", "comments": "Couché sur le dos, monter les jambes et les bras tout en restant gainé."},		
+            {"id": 2, "name": "Superman hold", "sets": 3, "reps": "max secs", "load": null, "rest": 120, "illustration": "superman-hold.JPG", "comments": "Couché sur le ventre, relever les bras et les jambes."},
+            {"id": 3, "name": "V-sit", "sets": 3, "reps": "max secs", "load": null, "rest": 90, "illustration": "v-sit.JPG", "comments": "Comme le L-Sit mais avec les jambes remontées pour former un V."},
+            {"id": 4, "name": "Butterfly hold", "sets": 3, "reps": "max secs", "load": null, "rest": 90, "illustration": "butterfly-hold.JPG", "comments": "En position de planche, relever le bras gauche et la jambe gauche."},
+            {"id": 5, "name": "Plank hold", "sets": 3, "reps": "max secs", "load": null, "rest": 90, "illustration": "plank-hold.JPG", "comments": "Tenir le maximum à chaque répétitions."}						
+        ]
+    }
+]
