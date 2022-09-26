@@ -1,5 +1,6 @@
 #app {
     padding: 1px;
+    font-family: 'lato';
 }
 .workout {
     background: #FFFFFF;
@@ -61,6 +62,8 @@ th { font-weight: bold; text-transform: uppercase; }
 
 .training-list {
     padding: 5px; margin: 0;
+    display: grid;
+    grid-template-columns: 50% auto;
 }
 .training-list li {
     list-style: none;

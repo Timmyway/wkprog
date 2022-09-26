@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Workout program</title>
     <!-- FONTS -->
-    <!-- <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700;900&family=Open+Sans&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700;900&family=Open+Sans&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">   
 </head>
 <body>
@@ -41,15 +41,15 @@
 			<div class="workout__exercice">				
 				<table class="exercice-table">
 					<tr>
-						<th :style="{ width: '200px', position: 'relative' }">
+						<th :style="{ width: '140px', position: 'relative' }">
 							Name
 							<span style="font-size: .8rem; position: absolute; left: 1px; top: 1px; text-transform: initial; font-style: italic;">N°{{ exercice.id }}</span>
 						</th>
-						<th :style="{ width: '240px' }">Progress</th>
-						<th :style="{ width: '120px' }">Reps & sets</th>
-						<th :style="{ width: '100px' }">Example</th>
-						<th :style="{ width: '100px' }">Load</th>
-						<th :style="{ width: '75px' }">Rest</th>						
+						<th :style="{ width: '320px' }">Progress</th>
+						<th :style="{ width: '100px' }">Reps & sets</th>
+						<th :style="{ width: '90px' }">Example</th>
+						<th :style="{ width: '60px' }">Load</th>
+						<th :style="{ width: '70px' }">Rest</th>						
 						<th :style="{ width: 'auto' }" class="text-left">Description</th>						
 					</tr>
 					<tr>
